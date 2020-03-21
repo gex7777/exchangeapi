@@ -6,7 +6,7 @@
 	box-sizing: boder-box;
 }
 body {
-	background-color: ;
+	background-color: var(--primary-color);
 	display: flex;
 	font-family: Arial, Helvetica, sans-serif;
 	flex-direction: column;
